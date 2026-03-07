@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Sarkar</h1>
 <h3 align="center">A passionate developer and Programmer from India</h3>
 
-- 🌱 I’m currently learning **React Js, ML**
+- 🌱 I’m currently learning ** ML**
 
 - 👨‍💻 All of my projects are available at [github.com/SumitSarkar969](github.com/SumitSarkar969)
 
