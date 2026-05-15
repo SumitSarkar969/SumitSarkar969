@@ -27,11 +27,6 @@ also:        Kaggle competitor
 ### GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumitSarkar969&theme=nord_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumitSarkar969&theme=nord_dark" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/SumitSarkar969/SumitSarkar969/output-3d-contrib/profile-green-animate.svg" />
 </p>
 
