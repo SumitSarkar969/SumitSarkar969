@@ -27,12 +27,12 @@ also:        Kaggle competitor
 ### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitSarkar969&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitSarkar969&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumitSarkar969&theme=nord_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumitSarkar969&theme=nord_dark" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SumitSarkar969/SumitSarkar969/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/SumitSarkar969/SumitSarkar969/output-3d-contrib/profile-green-animate.svg" />
 </p>
 
 ### Connect
